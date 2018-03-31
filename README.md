@@ -13,4 +13,4 @@ Una clase con una dependencia que tiene 2 posibles implementaciones. Un main que
 
 <br>
 
-[Enlace a las slides](https://github.com/thar/dependencyInjectionFrameworkComparision/tree/master/dependencyInjectionWithBoostDI)
+[Enlace a las slides](https://docs.google.com/presentation/d/1ZejYcpAW5PrbCo62J-DaQNSfPKveGwvXbc6z5wMxuoU/edit?usp=sharing)
